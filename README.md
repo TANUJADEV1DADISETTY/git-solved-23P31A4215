@@ -128,3 +128,4 @@ See `/docs` folder and `/docs/ai-integration.md`
 MIT License
 >>>>>>> d3dd9b2 (updating conflict-simulator)
 ## FAQ
+update
