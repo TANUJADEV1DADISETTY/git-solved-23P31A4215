@@ -1,0 +1,26 @@
+* 8b4e7ae (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 2fab85e docs: Add git_journey.md to track Git workflow and lessons
+*   9363291 Merge pull request #2 from TANUJADEV1DADISETTY/feature/another-feature
+|\  
+| * b0699ac (origin/feature/another-feature) feat: Add test feature
+| | * 316a840 (feature/another-feature) Bad commit
+| |/  
+| * d8cb08a (tag: v1.1.0, tag: v1.0.0) docs: Update README
+|/  
+* 0e70980 docs: Add FAQ section
+*   754b1c3 Merge pull request #1 from TANUJADEV1DADISETTY/feature/new-feature
+|\  
+| * 5e29b1b (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+* | 1de2048 checkpoint3.png file added
+|/  
+* 0634b49 updating conflict-simulator
+* 39e4ce1 Checkpoint2.png file added
+* 20dd064 merge: Resolve all conflicts between main and dev branches
+* 704e5b1 Add files via upload
+* 0312c6f (instructor/main, instructor/HEAD) updating main
+* fadfd24 Revise README for DevOps Simulator project
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+| * 02011a5 (instructor/dev, dev) updating dev
+|/  
+* ae630eb Initial commit
