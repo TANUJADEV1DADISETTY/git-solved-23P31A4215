@@ -1,6 +1,6 @@
 # DevOps Simulator
 
-<<<<<<< HEAD
+
 A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ## Project Status
@@ -18,11 +18,11 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - 🔐 OAuth2 authentication
 - 🐳 Docker Compose integration
 
-> > > > > > > 02011a5 (updating dev)
+
 
 ## Features
 
-=======
+
 **EXPERIMENTAL BUILD** - Advanced CI/CD configuration management with AI integration.
 
 ## Project Status
@@ -39,13 +39,13 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - 🎯 Chaos engineering tools
 
 ## Legacy Features
->>>>>>> d3dd9b2 (updating conflict-simulator)
+
 - Automated deployment scripts
 - Real-time monitoring
 - Configuration management
 - Backup and recovery system
 
-<<<<<<< HEAD
+
 ## Quick Start
 
 1. Clone the repository
@@ -92,7 +92,7 @@ Please read CONTRIBUTING.md before submitting pull requests.
 ## License
 
 MIT License
-=======
+
 ## Quick Start - Advanced Mode
 ```bash
 # Install AI dependencies
@@ -126,6 +126,6 @@ See `/docs` folder and `/docs/ai-integration.md`
 
 ## License
 MIT License
->>>>>>> d3dd9b2 (updating conflict-simulator)
+
 ## FAQ
 update
